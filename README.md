@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
@@ -1625,4 +1624,3 @@ If you have ideas for more “How To” recipes that should be on this page, [le
 =======
 # create-react-app
 React App https://facebook.github.io/react/ - Source: https://github.com/facebookincubator/create-react-app#getting-started
->>>>>>> af8170c891a74ca59eba8c6f8bc11ffbef4122bb
